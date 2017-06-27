@@ -1,0 +1,12 @@
+<suite name="Suite1">
+    <test name="Test1">
+        <classes>
+            <class name="myPack.FacebookTest">
+               <methods>
+                    <include name="facebookLoginTest1"></include>
+               </methods>
+            </class>
+        </classes>
+        
+    </test>
+</suite>
